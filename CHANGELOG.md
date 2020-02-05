@@ -4,7 +4,35 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
-v2.0.0--beta.4
+v2.0.0-beta.7
+------------------------------
+*February 5, 2020*
+
+### Added
+- Alcohol age & star filled yellow icons.
+
+### Changed
+- Merged latest master.
+
+
+v2.0.0-beta.6
+------------------------------
+*September 11, 2019*
+
+### Added
+- Profile icon
+
+
+v2.0.0-beta.5
+------------------------------
+*September 4, 2019*
+
+### Added
+- Svgo prefixIds property for icon optimisation
+- JE transparent logo and Menulog logo
+
+
+v2.0.0-beta.4
 ------------------------------
 *August 29, 2019*
 
@@ -12,7 +40,7 @@ v2.0.0--beta.4
 - SVG attributes were being lowercased when some of them are case sensitive. Updated the HTML minifier to respect casing.
 
 
-v2.0.0--beta.3
+v2.0.0-beta.3
 ------------------------------
 *August 28, 2019*
 
@@ -20,7 +48,7 @@ v2.0.0--beta.3
 - Removed `console.log` left in for testing
 
 
-v2.0.0--beta.2
+v2.0.0-beta.2
 ------------------------------
 *August 28, 2019*
 
@@ -28,7 +56,7 @@ v2.0.0--beta.2
 - Viewbox attribute added so that the standard viewbox size set on the SVG isn't lost in the API calls
 
 
-v2.0.0--beta.1
+v2.0.0-beta.1
 ------------------------------
 *August 22, 2019*
 
@@ -37,6 +65,33 @@ v2.0.0--beta.1
   This is so that when the module is exported, icons can be included in a variety of different ways for client side or server side includes.  The main thing this will give us is that the icons can then be exposed for use in Vue/React projects more effectively via a helper module.
 
   This restructuring has taken massive insipration from the [Feather SVG icon library](https://github.com/feathericons/feather), including their API and build methods which are run on top of our icon-set.
+
+
+v1.31.0
+------------------------------
+*November 29, 2019*
+
+### Added
+- Review stars for Menulog
+
+### Changed
+- SVG for alcohol age
+
+
+v1.30.0
+------------------------------
+*November 28, 2019*
+
+### Added
+- Alcohol age icon
+
+
+v1.29.1
+------------------------------
+*Sept 13, 2019*
+
+### Fixes
+- Update to use v1 branch as master versions
 
 
 v1.29.0
