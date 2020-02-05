@@ -56,6 +56,33 @@ v2.0.0-beta.1
   This restructuring has taken massive insipration from the [Feather SVG icon library](https://github.com/feathericons/feather), including their API and build methods which are run on top of our icon-set.
 
 
+v1.31.0
+------------------------------
+*November 29, 2019*
+
+### Added
+- Review stars for Menulog
+
+### Changed
+- SVG for alcohol age
+
+
+v1.30.0
+------------------------------
+*November 28, 2019*
+
+### Added
+- Alcohol age icon
+
+
+v1.29.1
+------------------------------
+*Sept 13, 2019*
+
+### Fixes
+- Update to use v1 branch as master versions
+
+
 v1.29.0
 ------------------------------
 *July 17, 2019*
